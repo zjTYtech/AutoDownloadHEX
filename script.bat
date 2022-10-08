@@ -8,7 +8,7 @@ echo กพ1กฟ[32m8[0m-6362
 echo กพ2กฟ[32m16[0m-6362
 echo กพ3กฟ[32m24[0m-6362
 set choice=
-set /p choice=  ว๋ักิ๑าชฯยิุตฤนฬผþ:
+set /p choice= ว๋ักิ๑าชฯยิุตฤนฬผþ:
 if "%choice%"=="1" (
     set hexFile="%~dp0IO-link-8-6362.hex" 
     echo กพ1กฟ8-6362)
